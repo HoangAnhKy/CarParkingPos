@@ -1,8 +1,6 @@
 <div align="center">
 <h1> NGHIÊN CỨU ỨNG DỤNG PHÁT HIỆN VÀ ĐẾM CHỖ TRỐNG BÃI GIỮ XE THÔNG QUA HỆ THỐNG CAMERA AN NINH </h1>
 
-<h2>Phạm Hồng Quân, Hoàng Anh Kỳ, Mai Ngọc Nam, Hà Trọng Ân, Lê Đại Dương,Trần Văn Ninh</h2>
-<h2>19DTH Khoa Công Nghệ</h2>
 </div>
 
 Tóm tắt
